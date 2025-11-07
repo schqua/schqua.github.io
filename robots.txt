@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://schqua.github.io/schqua/sitemap.txt
